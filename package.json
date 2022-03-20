@@ -1,0 +1,23 @@
+{
+  "name": "ts-fetch-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babiarzdamian/ts-fetch-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babiarzdamian/ts-fetch-app/issues"
+  },
+  "homepage": "https://github.com/babiarzdamian/ts-fetch-app#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
